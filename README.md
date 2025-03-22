@@ -45,13 +45,8 @@ The Menu button provides access to:
 ## Acknowledgments
 A huge shout-out to **Max Idermark** for his invaluable support with the initial design and his enthusiasm during the development of this project. Max's expertise and passion for poker made this project even more enjoyable to work on—and always a pleasure to play against.
 
-## Images in game
+## In game
 
 <img src="poker_scale_at_the_table.JPG" alt="Poker Scale at the Table" width="600"/>
-
-
-## Conclusion
-This poker scale is a perfect example of combining engineering and creativity to enhance a classic game. Its customizable features and precision make it a valuable tool for any poker enthusiast. Whether you're a casual player or a serious competitor, this scale ensures a seamless gaming experience.
-
 ---
 Feel free to reach out for any questions or further details about the project!
